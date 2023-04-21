@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<sonar.scanner.force-deprecated-java-version>true</sonar.scanner.force-deprecated-java-version>
-		<sonar.host.url>http://3.7.252.129:9000/</sonar.host.url>
+		<sonar.host.url>http://65.0.122.106:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 	</properties>
