@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>nit</groupId>
 	<artifactId>SpringBootRestProj10-MiniProject01-CURDOperations</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>SpringBootRestProj10-MiniProject01-CURDOperations</name>
 	<description>SpringDataJPA Application</description>
